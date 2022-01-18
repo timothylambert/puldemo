@@ -1,0 +1,4 @@
+encryptionsalt: v1:czk6WE38+rY=:v1:Zvmj5ocoH2EwptBR:8v9+Pz6l45d3OGcIHtM6w2RbQ++qAA==
+config:
+  aws:region: eu-west-2
+  aws-native:region: eu-west-2
