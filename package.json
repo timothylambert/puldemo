@@ -9,7 +9,7 @@
         "@pulumi/aws": "^4.0.0",
         "@pulumi/awsx": "^0.30.0",
         "@pulumi/aws-native": "^0.1.0",
-        "aws-sdk": "2.1058.0",
+        "aws-sdk": "2.1354.0",
         "unzipper": "0.10.11"
     }
 }
