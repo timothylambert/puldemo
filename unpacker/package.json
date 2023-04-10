@@ -2,7 +2,7 @@
     "name": "pulumi-unpacker",
     "devDependencies": {},
     "dependencies": {
-        "aws-sdk": "2.1058.0",
+        "aws-sdk": "2.1354.0",
         "unzipper": "0.10.11",
         "mime-types": "2.1.34"
     }
